@@ -1,6 +1,6 @@
 Black
 White
 Green
-Yelloq
+Yellow
 Red
 Blue
