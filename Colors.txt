@@ -1,6 +1,4 @@
 Black
-White
-Green
-Yellow
 Red
 Blue
+Gray
