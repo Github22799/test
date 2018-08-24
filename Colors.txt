@@ -2,3 +2,5 @@ Black
 Red
 Blue
 Gray
+Yellow
+White
